@@ -1,0 +1,10 @@
+main: es.vic.Plvic
+name: PluginVic
+version: 1.0-SNAPSHOT
+api-version: 1.17
+
+commands:
+  invsee:
+    description: "Open inventory of a player"
+  oa:
+    description: "Poto"
